@@ -1,0 +1,10 @@
+Format is tab separated analyze settings.
+Name                          	Value
+WindowPosition	0+22
+WindowVisibilities
+Open File for Analyze	
+behold	False
+comment	True
+skeinview	False
+statistic	False
+vectorwrite	False
